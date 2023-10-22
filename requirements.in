@@ -1,0 +1,8 @@
+pandas
+numpy
+rich
+matplotlib
+networkx
+click
+textualize
+scipy
